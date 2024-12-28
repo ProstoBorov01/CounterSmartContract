@@ -1,0 +1,6 @@
+
+
+class AdminWalletConfig:
+
+    ADDRESS = ""
+    MNEMONIC = ""
